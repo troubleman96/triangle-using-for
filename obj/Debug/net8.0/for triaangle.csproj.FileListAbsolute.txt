@@ -1,0 +1,14 @@
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\obj\Debug\net8.0\for triaangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\obj\Debug\net8.0\for triaangle.AssemblyInfoInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\obj\Debug\net8.0\for triaangle.AssemblyInfo.cs
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\obj\Debug\net8.0\for triaangle.csproj.CoreCompileInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\bin\Debug\net8.0\for triaangle.exe
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\bin\Debug\net8.0\for triaangle.deps.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\bin\Debug\net8.0\for triaangle.runtimeconfig.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\bin\Debug\net8.0\for triaangle.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\bin\Debug\net8.0\for triaangle.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\obj\Debug\net8.0\for triaangle.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\obj\Debug\net8.0\refint\for triaangle.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\obj\Debug\net8.0\for triaangle.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\obj\Debug\net8.0\for triaangle.genruntimeconfig.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\for triaangle\obj\Debug\net8.0\ref\for triaangle.dll
